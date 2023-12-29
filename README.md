@@ -71,3 +71,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+https://github.com/marketplace/actions/git-semantic-version?version=v4.0.3
+
+# - name: Build the Docker image
+
+# run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
